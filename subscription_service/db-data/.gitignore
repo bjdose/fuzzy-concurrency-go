@@ -1,0 +1,8 @@
+*
+!*/
+!.gitignore
+!.gitkeep
+
+/mongo/
+/rabbitmq/
+/postgres/
